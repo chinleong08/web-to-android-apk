@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web to Android APK"
+  short_description: "Package websites as signed Android APKs"
+  default_prompt: "Use $web-to-android-apk to package my web app as a signed APK I can install on Android."
